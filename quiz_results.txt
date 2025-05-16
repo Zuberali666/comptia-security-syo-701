@@ -1,0 +1,10 @@
+User: zuber | Time: 2025-05-16 00:10:33
+  Questions answered: 8
+  Correct answers: 2
+  Total time: 52.38 seconds
+----------------------------------------
+User: aman | Time: 2025-05-16 00:14:29
+  Questions answered: 7
+  Correct answers: 4
+  Total time: 70.47 seconds
+----------------------------------------
